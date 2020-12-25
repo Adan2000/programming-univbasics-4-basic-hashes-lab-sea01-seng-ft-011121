@@ -3,8 +3,7 @@ def new_hash
 end
 
 def my_hash
-hash = {adan}
-hash
+hash = {:fav_color => "black"}
 end
 
 def pioneer
